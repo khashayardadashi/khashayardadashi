@@ -5,6 +5,6 @@
 #### 🔵 css ( bootstrap )
 #### 🟢 c# 
 #### 🟣 php ( php-oop , php-mvc , wordpress ) 
-#### 🟠 javascript ( Jquery )
+#### 🟠 javascript & Jquery 
 #### 🔵 python  
 ### my website : [khashayaar.ir](https://khashayaar.ir)
