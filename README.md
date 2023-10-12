@@ -4,9 +4,8 @@
 ### 🟠 html
 ### 🔵 css
 ### 🟢 c#
-### 🟣 php
-### 🟣 php-mvc
+### 🟣 php ( php-oop , php-mvc )
 ### 🟠 javascript
-### 🔵 python
+### 🔵 python 
 ### ⚫ wordpress
 ### my website : [khashayaar.ir](https:khashayaar.ir)
