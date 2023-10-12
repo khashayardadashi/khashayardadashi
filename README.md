@@ -8,4 +8,5 @@
 ### 🟣 php-mvc
 ### 🟠 javascript
 ### 🔵 python
+### ⚫ wordpress
 ### my website : [khashayaar.ir](https:khashayaar.ir)
