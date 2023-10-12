@@ -9,6 +9,6 @@ My skills : <br><br>
 🟢 c# <br><br>
 🟣 php ( php-oop , php-mvc , wordpress ) <br><br>
 🟠 javascript & Jquery <br><br>
-🔵 python <br><br>
+🔵 python 
 </h3>
 <h3>my website : <a href="https://khashayaar.ir">khashayaar.ir</a></h3>
