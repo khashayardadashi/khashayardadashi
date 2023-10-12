@@ -7,7 +7,7 @@ My skills : <br><br>
 🟠 html <br><br>
 🔵 css ( bootstrap ) <br><br>
 🟢 c# <br><br>
-🟣 php ( php-oop , php-mvc , wordpress ) <br><br>
+🟣 php ( php-oop and mvc , wordpress ) <br><br>
 🟠 javascript & Jquery <br><br>
 🔵 python 
 </h3>
