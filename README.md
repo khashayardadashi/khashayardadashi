@@ -1,5 +1,5 @@
-<h1 style="color:white"><span>:wave: Hollo everybody </span>
-</h1>
+<span><h1 style="color:white">:wave: Hollo everybody
+</h1></span>
 <h3 style="color:white" href="#">
 I am khashayar , an engineering student at  Tehran Kharazmi University , a web and web application developer <br> <br>
 My skills : <br><br>
