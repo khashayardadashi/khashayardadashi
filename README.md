@@ -2,8 +2,8 @@
 :wave: Hollo everybody 
 </h1>
 <h4 style="color:white">
-I am khashayar , an engineering student at  Tehran Kharazmi University , a web and web application developer <br>
-My skills : <br>
+I am khashayar , an engineering student at  Tehran Kharazmi University , a web and web application developer <br> <br>
+My skills : <br><br>
 🟠 html <br>
 🔵 css ( bootstrap ) <br>
 🟢 c# <br>
