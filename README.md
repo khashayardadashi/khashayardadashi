@@ -1,5 +1,5 @@
 # :wave: Hollo everybody
-### I am khashayar , an engineering student at Kharazmi University in Tehran , a web and web application developer
+### I am khashayar , an engineering student at  Tehran Kharazmi University , a web and web application developer
 #### My skills : 
 #### 🟠 html 
 #### 🔵 css ( bootstrap )
