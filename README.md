@@ -4,9 +4,9 @@ I am khashayar , an engineering student at  Tehran Kharazmi University , a web a
 My skills : <br><br>
 🟠 html <br><br>
 🔵 css & bootstrap  <br><br>
-🟢 Asp.net Core <br><br>
+🟢 c# ( Asp.net Core) <br><br>
 🟣 php ( php-oop and mvc , wordpress ) <br><br>
 🟠 javascript & Jquery <br><br>
-🔵 python 
+🔵 python ( flask )
 
 my website : <a href="https://khashayardadashi.ir">khashayaar.ir</a>
