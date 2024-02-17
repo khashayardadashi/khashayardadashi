@@ -9,4 +9,4 @@ My skills : <br><br>
 🟠 javascript & Jquery <br><br>
 🔵 python ( flask )
 
-my website : <a href="https://khashayardadashi.ir">khashayaar.ir</a>
+my website : <a href="https://khashayardadashi.ir">khashayardadashi.ir</a>
